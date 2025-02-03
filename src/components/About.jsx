@@ -47,7 +47,7 @@ const About = () => {
                 variants={fadeIn('', '', 0.1, 1)}
                 className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
             >
-                I'm a software engineering student diving into web app
+                I'm a IT student diving into web app
                 development, currently delving into Next.js, PostgreSQL,
                 TypeScript, and JavaScript. I'm also familiarizing myself with
                 frameworks such as React, Node.js, and Three.js. I'm passionate
