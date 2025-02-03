@@ -11,7 +11,7 @@ const Hero = () => {
             >
               <div className="flex  items-center mt-5">
                     <img 
-                        src="public/me.png" 
+                        src="/me.png" 
                         alt="Profile" 
                         width="150px"
                         className="w-40 h-40 rounded-full object-cover"
